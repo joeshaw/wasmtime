@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["compile","Compile the given AST definitions into Rust source code."]]};
